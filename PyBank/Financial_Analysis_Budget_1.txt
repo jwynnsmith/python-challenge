@@ -1,0 +1,7 @@
+Financial Analysis Budget 1 
+-----------------------------------------------------------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Revenue Change: $-6759
+Maximum Revenue Gain: $1837235 in Feb-16
+Largest Revenue Loss: $-1779747 in Aug-14
